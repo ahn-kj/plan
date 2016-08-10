@@ -10,6 +10,7 @@
 |C 언어 다시보기 프로젝트|C언어를 다시 공부해서 정리하는 프로젝트|[https://github.com/ahn-kj/cstudy](https://github.com/ahn-kj/cstudy)|
 |유화 그리기|유화 DIY 취미생활|[https://github.com/ahn-kj/oil-painting](https://github.com/ahn-kj/oil-painting)|
 |레고 |레고 만들기 취미생활|[https://github.com/ahn-kj/rego](https://github.com/ahn-kj/rego)|
+|미니어쳐|미니어쳐 만들기 취미생활|[https://github.com/ahn-kj/mimine](https://github.com/ahn-kj/mimine)| 
  
 # 컴퓨터 공학 다시보기 프로젝트
 
@@ -48,5 +49,3 @@ IT 기본 소양을 다시 복습하여 신규 기술들을 보다 빠르게 받
 
 
 # 여행 프로젝트
-
-# 미니어쳐 프로젝트
